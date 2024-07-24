@@ -1,7 +1,6 @@
 # python_extras
 
 Na mesma pasta onde se encontra o arquivo connect.py
-mudar os dados do banco de dados e password no arquivo connect.py
 
 # Criar um virtualenv com o python:
 python3 -m venv .env
@@ -10,4 +9,5 @@ python3 -m venv .env
 source .env/bin/activate
 
 # Instalar o psycopg2
-pip install psycopg2
+pip install psycopg2.
+Atualizar os dados do database.
