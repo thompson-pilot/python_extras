@@ -2,11 +2,11 @@ import psycopg2
 
 
 connection = psycopg2.connect(
-    user = "thompilot",
-    password = "pithomba",
+    user = "username",
+    password = "password",
     host = "localhost",
     port = "5432",
-    database = "djangoproj"
+    database = "dbname"
     )
 
 
